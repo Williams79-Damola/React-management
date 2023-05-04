@@ -1,0 +1,34 @@
+.cart-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.cart-body{
+    display: flex;
+
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 0px;
+    width: 100%;
+
+}
+.figure{
+    text-align: center;
+}
+img{
+    margin-right: 30px;
+}
+.decs{
+    width: 200px;
+}
+
+.qty{
+    width: 200px;
+   text-align: center;
+}
+.price{
+    width: 200px;
+    text-align: center;
+}

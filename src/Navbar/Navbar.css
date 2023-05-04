@@ -1,0 +1,15 @@
+.nav-menu{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cart-no{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    background-color: orangered;
+    border-radius: 50px;
+}
